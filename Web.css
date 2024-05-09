@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "Ubuntu Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    src: url(https://fonts.gstatic.com/s/ubuntusans/v2/co3TmWd6mSRtB7_9UaLWwLPLmXPrAaRZFVxauS9FrAaJ3jJBOw.woff2) format('woff2');
+}
+
+
 body {
-    background-color: rgb(160, 80, 235);
+    background-color: rgb(193, 136, 247);
 }
